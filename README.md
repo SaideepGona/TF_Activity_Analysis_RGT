@@ -3,7 +3,7 @@ Pipeline used to perform TFT activity analysis using the "RGT" package. Pipeline
 
 
 
-![alt text](luigi_pipeline/)
+![alt text](luigi_pipeline/Motif_Enrichment_Matching.png)
 
 ## PREREQS (Midway Cluster):
 
